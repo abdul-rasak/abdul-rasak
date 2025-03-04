@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdulRasak08
+- 👋 Hi, I’m Kamoru AbdulRasak 
 - 👀 I’m interested in Contributing in project
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on project on web
