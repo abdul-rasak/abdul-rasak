@@ -1,7 +1,7 @@
 # Hi, I'm AbdulRasak 👋
 
 💻 I'm a Software Engineering student passionate about Web Development and Open Source.  
-🌱 Currently learning React & Backend development.  
+🌱 Currently learning Frontend development & Backend development.  
 ⚡ Fun Fact: I love teaching coding and building useful projects for students.
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@kamtechhub-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://https://x.com/kamtechhub)
