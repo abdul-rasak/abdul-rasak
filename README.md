@@ -10,8 +10,6 @@ Hi, I'm AbdulRasak 👋<br>💻 I'm  a Web Developer<br>🌱 Currently learning 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rasak&layout=compact&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdul-rasak&theme=radical&border_radius=6)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=abdul-rasak&&theme=tokyonight" alt="abdul-rasak" /></p>
-
 
 ### 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
