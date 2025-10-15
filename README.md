@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm AbdulRasak 👋<br>💻 I'm  a Web Developer<br>🌱 Currently learning Frontend development & Backend development.<br>⚡ Fun Fact: I love teaching coding.
+Hi, I'm AbdulRasak 👋<br>💻 I'm  a Web Developer<br>🌱 Currently learning Frontend development & Backend development.<br>⚡ Fun Fact: I love teaching coding. </br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kamtechhub ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamoru-abdulrasak-574972354/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kamtechhub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkamoru1@gmail.com) 
 
 ## 📊 GitHub Stats
